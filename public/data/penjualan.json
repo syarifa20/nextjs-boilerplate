@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nama": "Laptop Asus",
+      "jumlah": 2,
+      "harga": 15000000
+    },
+    {
+      "id": 2,
+      "nama": "Mouse Logitech",
+      "jumlah": 5,
+      "harga": 250000
+    },
+    {
+      "id": 3,
+      "nama": "Monitor Samsung",
+      "jumlah": 1,
+      "harga": 3000000
+    }
+  ]
+  
